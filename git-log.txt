@@ -1,0 +1,11 @@
+commit 3f5e22a39dedd947a2a61eec927e9606244a1f5c
+Author: busrasahinnnn <N01515717@humber.ca>
+Date:   Sat Nov 30 02:02:27 2024 -0500
+
+    Initial commit of Lab9 Student Management project
+
+commit 048aa28aea5f7f5d7855a78e409488e4be6d8a12
+Author: busrasahinnnn <N01515717@humber.ca>
+Date:   Sat Nov 30 01:45:21 2024 -0500
+
+    Add .gitignore file to exclude compiled files
